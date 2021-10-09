@@ -1,0 +1,8 @@
+{
+    "ip": '',
+    "port": 8888,
+    "static_path": "./static",
+    "dynamic_path": "./dynamic",
+    "frame": "mini_frame",
+    "application": "application"
+}
